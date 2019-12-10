@@ -61,7 +61,7 @@ extension FrameCalculator {
     }
     
     func labelFrameSize() -> CGSize {
-        return UILabel.sizeFor(content: "100%", font: self.font)
+        return UILabel.sizeFor(content: "100.00%", font: self.font)
     }
 }
 
